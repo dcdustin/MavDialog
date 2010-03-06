@@ -2,3 +2,6 @@ name: MavDialog
 author: dustin
 category: Interface
 tags: [dialog, UI, GUI, window]
+demo: http://maveno.us/library/public/mavdialog/
+docs: http://maveno.us/library/public/mavdialog/
+current: 0.1.1
