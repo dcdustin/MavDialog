@@ -7,6 +7,10 @@ license: MIT-style
 authors:
 - Dustin Hansen
 
+demo: http://maveno.us/library/public/mavdialog/
+
+docs: http://maveno.us/library/public/mavdialog/
+
 requires:
 - core/1.2.4: '*'
 
