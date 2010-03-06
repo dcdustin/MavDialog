@@ -19,9 +19,9 @@ How to use
 
 Methods
 -------
-MavDialog.setMessage()
-MavDialog.show()
-MavDialog.hide()
-MavDialog.close()
-MavDialog.screen_center()
-MavDialog.toggle_shade()
+MavDialog.setMessage();
+MavDialog.show();
+MavDialog.hide();
+MavDialog.close();
+MavDialog.screen_center();
+MavDialog.toggle_shade();
